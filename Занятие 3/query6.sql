@@ -1,0 +1,1 @@
+SELECT * FROM car WHERE full_capacity > 12000;

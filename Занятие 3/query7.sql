@@ -1,0 +1,1 @@
+SELECT register_number FROM car WHERE full_capacity > 12000;

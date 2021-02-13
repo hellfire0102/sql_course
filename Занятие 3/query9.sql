@@ -1,0 +1,1 @@
+SELECT DISTINCT owner_id FROM warehouse
